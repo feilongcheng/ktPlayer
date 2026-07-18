@@ -53,5 +53,15 @@ $(function(){
 });
 ```
 
-## 致谢
-部分参考：[DPlayer](https://github.com/DIYgod/DPlayer)
+## Demo Media
+
+The demo video is based on media published by the U.S. National Park Service (NPS).
+
+Video:
+Yellowstone National Park – Fall Sunrise at West Thumb
+
+Source:
+https://www.nps.gov/
+
+Status:
+Public Domain (U.S. Government Work)
