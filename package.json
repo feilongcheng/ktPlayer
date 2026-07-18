@@ -5,19 +5,19 @@
   "main": "./dist/ktPlayer.min.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wangpengfei15975/ktPlayer"
+    "url": "https://github.com/feilongcheng/ktPlayer"
   },
   "keywords": [
     "html5",
     "video",
     "player"
   ],
-  "author": "Scott",
+  "author": "Felix",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wangpengfei15975/ktPlayer/issues"
+    "url": "https://github.com/feilongcheng/ktPlayer/issues"
   },
-  "homepage": "https://github.com/wangpengfei15975/ktPlayer#readme",
+  "homepage": "https://github.com/feilongcheng/ktPlayer#readme",
   "devDependencies": {
     "grunt": "^1.0.1",
     "grunt-contrib-uglify": "^2.0.0",

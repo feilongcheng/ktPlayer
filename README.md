@@ -1,5 +1,5 @@
 # ktPlayer
-[![npm](https://img.shields.io/npm/v/ktPlayer.svg)]() [![npm](https://img.shields.io/npm/dt/ktPlayer.svg)]() [![npm](https://img.shields.io/npm/l/ktPlayer.svg)]() [![npm](https://img.shields.io/badge/made%20by-Scott-orange.svg)]()  
+[![npm](https://img.shields.io/npm/v/ktPlayer.svg)]() [![npm](https://img.shields.io/npm/dt/ktPlayer.svg)]() [![npm](https://img.shields.io/npm/l/ktPlayer.svg)]() [![npm](https://img.shields.io/badge/made%20by-Felix-orange.svg)]()  
 a simple HTML5 video player  
 一款基于HTML5的web视频播放器  
 
