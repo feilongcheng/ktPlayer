@@ -114,6 +114,7 @@ $background:rgba(28,28,28,.9);
         &.ktPlayer-circle-rotate{
           @include animation(spinning,1s,linear,infinite);
           @include transform-origin(50%,50%);
+          transform-box:fill-box;
         }
       }
     }
@@ -240,6 +241,7 @@ $background:rgba(28,28,28,.9);
       .ktPlayer-gear{
         @include transition(all,.3s,ease);
         @include transform-origin(50%,50%);
+        transform-box:fill-box;
       }
       .ktPlayer-setting-wrap{
         display:none;
@@ -267,6 +269,7 @@ $background:rgba(28,28,28,.9);
     .ktPlayer-icon-fullscreen{
       path{
         @include transform-origin(50%,50%);
+        transform-box:fill-box;
       }
       &.ktPlayer-icon-fullscreen-on{
         path{
